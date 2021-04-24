@@ -1,0 +1,9 @@
+changeLinearUnit "mm";
+print("Units changed to MM");
+
+-------------
+
+To use: Make a button, select EDIT POP UP, On the left side of the pop up menu add as many new menu items as you want, copy the above and past it in the right window and change "mm" for what you want.
+"mm" is millimeters
+"cm" is centimetres
+"m" is Meters
